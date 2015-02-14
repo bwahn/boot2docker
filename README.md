@@ -322,3 +322,4 @@ Loading VBoxNetAdp.kext
 ```
 
 Now the VM should boot properly.
+
